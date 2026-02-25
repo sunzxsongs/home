@@ -1,0 +1,58 @@
+const itens = [
+  {
+    id: 1,
+    id_aleatory: "ALDFBXO",
+    nome: 'Anaconda',
+    artistas: 'Jhow Dancer, Alexia Gomes Cruz, Gianluca Ciarlariello Palermo',
+    capa: 'Past_inicio/coversM/1-ALDFBXO-Anaconda.png',
+    download: 'Past_inicio/coversM/1-ALDFBXO-Anaconda.mp3'
+  },
+  {
+    id: 2,
+    id_aleatory: "K2GZ",
+    nome: 'Flamingos',
+    artistas: 'Baco Exu Do Blues, Tuyo',
+    capa: 'Past_inicio/coversM/2-K2GZ-FLAMINGOS.png',
+    download: 'Past_inicio/coversM/2-K2GZ-FLAMINGOS.mp3'
+  },
+  {
+    id: 3,
+    id_aleatory: "FBS7TE",
+    nome: 'Dark Aura Funk (Super Slowed)',
+    artistas: 'Elude, Zaylo',
+    capa: 'Past_inicio/coversM/3-FBS7TE-DarkAuraFunk.png',
+    download: 'Past_inicio/coversM/3-FBS7TE-DarkAuraFunk.mp3'
+  },
+  {
+    id: 4,
+    id_aleatory: "0FUF38",
+    nome: 'Baila Mais',
+    artistas: 'Pelé Milflows, SóCiro, Olívia, San Joe',
+    capa: 'Past_inicio/coversM/4-0FUF38-Baila_Mais.png',
+    download: 'Past_inicio/coversM/4-0FUF38-Baila_Mais.mp3'
+  },
+  {
+    id: 5,
+    id_aleatory: "5UBP46",
+    nome: 'Dangerously In Love',
+    artistas: 'Beyoncé',
+    capa: 'Past_inicio/coversM/5-5UBP46-Dangerously_In_Love.png',
+    download: 'Past_inicio/coversM/5-5UBP46-Dangerously_In_Love.mp3'
+  },
+  {
+    id: 6,
+    id_aleatory: "NHHU66",
+    nome: 'Bato Com O Placo 2',
+    artistas: 'Luuky, Cjtinha',
+    capa: 'Past_inicio/coversM/6-NHHU66-Bato_Com_O_Placo_2.png',
+    download: 'Past_inicio/coversM/6-NHHU66-Bato_Com_O_Placo_2.mp3'
+  },
+  {
+    id: 7,
+    id_aleatory: "P9N9QQ",
+    nome: 'Pikezin do M.J',
+    artistas: 'Silva 07, Navas, Miury',
+    capa: 'Past_inicio/coversM/7-P9N9QQ-Pikezin_do_M.J.png',
+    download: 'Past_inicio/coversM/7-P9N9QQ-Pikezin_do_M.J.mp3'
+  }
+];
